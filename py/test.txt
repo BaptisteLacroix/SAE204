@@ -1,0 +1,23 @@
+insert into avis values (1, "Patrick n"a pas hésité à me rendre service même s"il ne pouvait pas vraiment m"aider sur la forme !
+En deux coups de fil mon problème était réglé Merci Patrick !',5/5);
+insert into avis values (2, 'Personne de confiance,  ponctuel  aimable .',5/5);
+insert into avis values (3, 'Evaluation automatique : Marché conclu avec succès !!',5/5);
+insert into avis values (4, 'Excellent travail du début jusqu’à la fin à des prix raisonnables et compétitifs.je recommande à 200%',5/5);
+insert into avis values (5, 'merci Madame  pour votre commentaire j ai été ravi de travailler pour vous et reste à votre service cordialement Patrick',5/5);
+insert into avis values (6, 'Patrick est venu quasiment immédiatement et a fait le travail très rapidement et avec sérieux... je le recommande vivement',5/5);
+insert into avis values (7, 'merci Madame liset vous etes tres sympathique',5/5);
+insert into avis values (8, 'Très sérieux, compétent, de toute confiance heureuse d"avoir pu compter sur lui ,pour un démontage et je ferai de nouveau appel à Patrick en cas de besoin sans hésiter,merci Patrick !',5/5);
+insert into avis values (9, 'Merci Madame  Catherine  vous êtes très sympathique',5/5);
+insert into avis values (10, 'Très bon travail personne sympathique très satisfaite de la prestation.',5/5);
+insert into avis values (11, 'Tout c’est parfaitement déroulé, Stéphane est très sympathique et professionnel!
+Je le recommande a tous!',5/5);
+insert into avis values (12, 'Au top ! Serviable et ponctuel',5/5);
+insert into avis values (13, 'Joyeux sympathique, ponctuel à l’écoute des besoins. Il a  chargé un abri de jardin en kit de la maison dans une camionnette, sans difficulté, sur le temps estimé en prenant les précautions nécessaires pour ne pas endommager portes ou murs. Merci',5/5);
+insert into avis values (14, 'Le déménagement s"est déroulé à la perfection, Stéphane est très sympathique, ponctuel et minutieux dans ce qu"il fait.
+Je le recommande à 100% et ferai de nouveau appel à ses services.',5/5);
+insert into avis values (15, 'Stéphane est ponctuel, sympathique et souriant. Il donne le meilleur de lui même. Il tient ses délais et ses engagements. Je recommande vivement Stéphane!',5/5);
+insert into avis values (16, 'Stéphane est ponctuel et efficace. Du très bon boulot. Je n"hésiterai pas à faire à nouveau appel à lui.',5/5);
+insert into avis values (17, 'Excellent! Je ferai appel à lui dans le futur. Je recommande.',5/5);
+insert into avis values (18, 'Le déménagement s’est très bien passé grâce à Stephane et à son ami Momo. Si vous cherchez des gars costauds contactez-les !',5/5);
+insert into avis values (19, 'Stéphane a été très ponctuel, gentil et serviable, et hyper efficace pour mon déménagement. Je le recommande les yeux fermés ! Merci !',5/5);
+insert into avis values (20, 'Super déménagement ! Tout s’est hyper bien passé, très sympas, ponctuel et professionnel',5/5);
